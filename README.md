@@ -100,3 +100,27 @@ This is a descriptive exploratory analysis, so the findings show patterns in the
 - Investigate why cloudy conditions show lower demand than rain.
 
 ## Repository Structure
+
+```
+├── London_Bike_Sharing_Analysis.ipynb   # Full analysis
+├── df.csv                               # Dataset
+├── images/
+│   ├── Rentals-by-Hour.png
+│   └── Rentals-by-Season.png
+└── README.md
+```
+
+## How to Run
+
+```bash
+git clone https://github.com/ZJA97/<repo-name>.git
+cd <repo-name>
+pip install pandas matplotlib seaborn jupyter
+jupyter notebook London_Bike_Sharing_Analysis.ipynb
+```
+
+The notebook reads `df.csv` from the same folder, so run it from the repository root.
+
+## Author
+
+**Zeyd Ali**: [LinkedIn](https://www.linkedin.com/in/zeydali) · [GitHub](https://github.com/ZJA97)
