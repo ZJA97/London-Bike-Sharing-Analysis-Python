@@ -14,9 +14,9 @@ Built in Python (Pandas, Matplotlib, Seaborn) in a Jupyter notebook.
 
 ### Charts
 
-![Average bike rentals by hour of the day](images/Rentals-by-Hour.png)
+![Average bike rentals by hour of the day](Images/Rentals-by-Hour.png)
 
-![Average bike rentals by season](images/Rentals-by-Season.png)
+![Average bike rentals by season](Images/Rentals-by-Season.png)
 
 ### Detail
 
